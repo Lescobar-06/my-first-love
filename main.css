@@ -51,11 +51,13 @@ opacity: 2;
 background-image: url(backgrounds/Strength-bg-imgh.jpg);
 background-size: relative;
 background-repeat: no-repeat;
+background-position: center;
 }
 
 h1#mature{
 background-image: url(backgrounds/Mature-bg-img.jpg);
 background-repeat: no-repeat;
+background-position: center;
 }
 
 h1#orgasm {
