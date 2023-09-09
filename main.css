@@ -67,7 +67,7 @@ h1#orgasm {
 }
 
 h1#coaching {
-    background-color:rgb(233, 233, 233);
+    background-color: gainsboro;
     color: black;
     position: relative;
 }
@@ -80,4 +80,8 @@ h1#gritty {
 
 h1#nostalgia {
     background-color: rgb(74, 250, 250);
+    background-image: url(backgrounds/Nostalgia-bg-img.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
