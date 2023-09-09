@@ -62,10 +62,18 @@ color: yellowgreen;
 
 h1#orgasm {
   background-position: center;
+  background-color: rgb(26, 212, 236);
+  
 }
 
 h1#coaching {
     background-color:peachpuff;
     color: black;
     position: relative;
+}
+
+h1#gritty {
+    background-image: url(backgrounds/gritty-bg-img2.png);
+    background-repeat: repeat-x;
+    color: goldenrod;
 }
