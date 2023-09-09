@@ -57,9 +57,15 @@ h1#mature{
 background-image: url(backgrounds/Mature-bg-img.jpg);
 background-repeat: no-repeat;
 background-position: center;
+color: yellowgreen;
 }
 
 h1#orgasm {
     width: 100%;
     height: 100%;
+}
+
+h1#coaching {
+    background-color: whitesmoke;
+    color: black;
 }
