@@ -61,11 +61,11 @@ color: yellowgreen;
 }
 
 h1#orgasm {
-    width: 100%;
-    height: 100%;
+  background-position: center;
 }
 
 h1#coaching {
-    background-color: whitesmoke;
+    background-color:peachpuff;
     color: black;
+    position: relative;
 }
