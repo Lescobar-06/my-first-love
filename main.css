@@ -67,9 +67,9 @@ h1#orgasm {
 }
 
 h1#coaching {
-    background-color: gainsboro;
+    background-color: rgba(0, 255, 0, 0.363);
     color: black;
-    position: relative;
+    background-size: calc(1fr;1fr;1fr);
 }
 
 h1#gritty {
