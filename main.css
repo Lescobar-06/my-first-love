@@ -3,6 +3,7 @@ body {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth;
+    margin: 0%;
 }
 
 main {
@@ -25,12 +26,12 @@ h1 {
 h1#light {
 background-image: url(backgrounds/light-bg-img.jpg);
 background-size: cover;
-color: red;
+color: rgb(240, 131, 29);
 }
 
 h1:nth-child(2n-1) {
    background-color: wheat;
-   color:white;
+   color:rgb(255, 81, 0);
 
 }
 
@@ -38,13 +39,12 @@ h1#light a {
     opacity: 0.3;
     background-repeat: no-repeat;
     text-decoration: none;
-    background-color: white;
     transition: opacity 3s;
     
 }
 
 h1#light a:hover {
-opacity: 2;
+opacity: 1;
 }
 
   h1#strength { 
@@ -64,11 +64,12 @@ h1#orgasm {
   background-position: center;
   background-color: rgb(7, 214, 241);
   color: navy;
+  position: relative;
 }
 
 h1#coaching {
-    background-color: rgba(0, 255, 0, 0.363);
-    color: black;
+    background-color: rgba(150, 255, 150, 0.363);
+    color:white;
     background-size: calc(1fr;1fr;1fr);
 }
 
@@ -79,9 +80,9 @@ h1#gritty {
 }
 
 h1#nostalgia {
-    background-color: rgb(74, 250, 250);
-    background-image: url(backgrounds/Nostalgia-bg-img.webp);
+    background-color: rgb(208, 255, 255);
+    background-image: url(backgrounds/nostalgia-bg-img-3.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
