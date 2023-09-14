@@ -38,7 +38,7 @@ h1:nth-child(2n-1) {
 h1#light a:hover {
     opacity: 0.3;
     background-repeat: no-repeat;
-    text-decoration: none;
+    text-decoration: navajowhite;
     transition: opacity 3s;
     
 }
@@ -51,9 +51,12 @@ h1#strength {
 background-image: url(backgrounds/Strength-bg-img.jpg);
 background-repeat: no-repeat;
 background-position: center;
+text-transform: capitalize;
+color: gray;
 }
 
 h1#strength a:hover {
+opacity: 1;
 
 }
 h1#mature{
