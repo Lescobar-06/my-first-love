@@ -35,7 +35,7 @@ h1:nth-child(2n-1) {
 
 }
 
-h1#light a {
+h1#light a:hover {
     opacity: 0.3;
     background-repeat: no-repeat;
     text-decoration: none;
@@ -47,12 +47,15 @@ h1#light a:hover {
 opacity: 1;
 }
 
-  h1#strength { 
+h1#strength { 
 background-image: url(backgrounds/Strength-bg-img.jpg);
 background-repeat: no-repeat;
 background-position: center;
 }
 
+h1#strength a:hover {
+
+}
 h1#mature{
 background-image: url(backgrounds/Mature-bg-img.jpg);
 background-repeat: no-repeat;
