@@ -52,7 +52,8 @@ background-image: url(backgrounds/Strength-bg-img.jpg);
 background-repeat: no-repeat;
 background-position: center;
 text-transform: capitalize;
-color: gray;
+color: white;
+
 }
 
 h1#strength a:hover {
@@ -71,12 +72,12 @@ h1#orgasm {
   background-color: rgb(7, 214, 241);
   color: navy;
   position: relative;
+  height: 856px;
 }
 
 h1#coaching {
     background-color: rgba(150, 255, 150, 0.363);
-    color:white;
-    background-size: calc(1fr;1fr;1fr);
+    color:orangered;
 }
 
 h1#gritty {
@@ -91,4 +92,11 @@ h1#nostalgia {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+h1#orgasm {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
 }
